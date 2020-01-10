@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InundationMap</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="cam">Camera</string>
+    <string name="acc">Profile</string>
+
+    <string name="clouds">Cloudiness</string>
+    <string name="temp">Temperature</string>
+    <string name="humid">Humidity</string>
+    <string name="wind">Wind</string>
+
+    <string name="rescue">Rescue</string>
+    <string name="hospital">Hospital</string>
+    <string name="emergency">Emergency</string>
+    <string name="shelter">Shelter</string>
+    <string name="food_sup">Food Supply</string>
+    <string name="help">Help!!!</string>
+    <string name="city">City</string>
+
+    <string name="signout">SignOut</string>
+    <string name="posts">Posts</string>
+    <string name="user_name">Username</string>
+
+    <string name="in_flood">InFlood</string>
+    <string name="after_flood">AfterFlood</string>
+    <string name="send">SEND</string>
+
+    <string name="timestamp">Timestamp</string>
+    <string name="location">Location</string>
+    <string name="description">Description</string>
+    <string name="profile">Profile</string>
+    <string name="choose_language">Choose Language</string>
+
+</resources>

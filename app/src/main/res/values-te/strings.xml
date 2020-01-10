@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">నిరుపయోగం మ్యాప్</string>
+    <string name="home">హోమ్</string>
+    <string name="search">శోధన</string>
+    <string name="cam">కెమెరా</string>
+    <string name="acc">ప్రొఫైల్</string>
+
+    <string name="clouds">మేఘావృతం</string>
+    <string name="temp">ఉష్ణోగ్రత</string>
+    <string name="humid">తేమ</string>
+    <string name="wind">పవన</string>
+
+    <string name="rescue">రెస్క్యూ</string>
+    <string name="hospital">హాస్పిటల్</string>
+    <string name="emergency">అత్యవసర</string>
+    <string name="shelter">షల్టర్</string>
+    <string name="food_sup">ఆహార సరఫరా</string>
+    <string name="help">సహాయం!!!</string>
+    <string name="city">సిటీ</string>
+
+    <string name="signout">సైన్ అవుట్ చేయండి</string>
+    <string name="posts">పోస్ట్లు</string>
+    <string name="user_name">యూజర్ పేరు</string>
+
+    <string name="in_flood">వరదలో</string>
+    <string name="after_flood">వరద తరువాత</string>
+    <string name="send">పంపండి</string>
+
+    <string name="timestamp">స్టాంప్</string>
+    <string name="location">నగర</string>
+    <string name="description">వివరణ</string>
+    <string name="profile">ప్రొఫైల్</string>
+    <string name="choose_language">భాషను ఎంచుకోండి</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">വെള്ളപ്പൊക്കം</string>
+    <string name="home">വീട്</string>
+    <string name="search">തിരയൽ</string>
+    <string name="cam">ക്യാമറ</string>
+    <string name="acc">പ്രൊഫൈൽ</string>
+
+    <string name="clouds">കാലാവസ്ഥ</string>
+    <string name="temp">താപനില</string>
+    <string name="humid">ഈർപ്പം</string>
+    <string name="wind">കാറ്റ്</string>
+
+    <string name="rescue">വീണ്ടെടുക്കുക</string>
+    <string name="hospital">ആശുപത്രി</string>
+    <string name="emergency">അടിയന്തിരാവസ്ഥ</string>
+    <string name="shelter">ഷെൽട്ടർ</string>
+    <string name="food_sup">ഭക്ഷണം വിതരണം</string>
+    <string name="help">സഹായിക്കൂ!!!</string>
+    <string name="city">നഗരം</string>
+
+    <string name="signout">സൈൻ ഔട്ട്</string>
+    <string name="posts">അര്‍ഥം</string>
+    <string name="user_name">ഉപയോക്തൃനാമം</string>
+
+    <string name="in_flood">പ്രളയത്തിൽ</string>
+    <string name="after_flood">പ്രളയത്തിനുശേഷം</string>
+    <string name="send">അയയ്ക്കുക</string>
+
+    <string name="timestamp">ടൈംസ്റ്റാമ്പ്</string>
+    <string name="location">സ്ഥലം</string>
+    <string name="description">വിവരണം</string>
+    <string name="profile">പ്രൊഫൈൽ</string>
+    <string name="choose_language">ഭാഷ തിരഞ്ഞെടുക്കുക</string>
+</resources>

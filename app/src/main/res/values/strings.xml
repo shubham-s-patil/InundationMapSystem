@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">InundationMap</string>
+    <string name="web_client_id" translatable="false">778659329760-i488eqstukai7v6h0e9n46htk8kjriqa.apps.googleusercontent.com</string>
+    <string name="weather_key" translatable="false">ae2befd92196eff1a0eb61e348fdf253</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="cam">Camera</string>
+    <string name="acc">Profile</string>
+
+    <string name="clouds">Cloudiness</string>
+    <string name="temp">Temperature</string>
+    <string name="humid">Humidity</string>
+    <string name="wind">Wind</string>
+
+    <string name="rescue">Rescue</string>
+    <string name="hospital">Hospital</string>
+    <string name="emergency">Emergency</string>
+    <string name="shelter">Shelter</string>
+    <string name="food_sup">Food Supply</string>
+    <string name="help">Help!!!</string>
+    <string name="city">City</string>
+
+    <string name="signout">SignOut</string>
+    <string name="posts">Posts</string>
+    <string name="user_name">Username</string>
+
+    <string name="in_flood">InFlood</string>
+    <string name="after_flood">AfterFlood</string>
+    <string name="send">SEND</string>
+
+    <string name="timestamp">Timestamp</string>
+    <string name="location">Location</string>
+    <string name="description">Description</string>
+    <string name="profile">Profile</string>
+    <string name="choose_language">Choose Language</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

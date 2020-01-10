@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">जलमय नकाशे</string>
+    <string name="home">घर</string>
+    <string name="search">शोध</string>
+    <string name="cam">कॅमेरा</string>
+    <string name="acc">प्रोफाईल</string>
+
+    <string name="clouds">ढगाळ</string>
+    <string name="temp">तापमान</string>
+    <string name="humid">आर्द्रता</string>
+    <string name="wind">वारा</string>
+
+    <string name="rescue">बचाव</string>
+    <string name="hospital">रूग्णालय</string>
+    <string name="emergency">आपत्कालीन</string>
+    <string name="shelter">निवारा</string>
+    <string name="food_sup">अन्न पुरवठा</string>
+    <string name="help">मदत !!!</string>
+    <string name="city">शहर</string>
+
+    <string name="signout">साइन आउट करा</string>
+    <string name="posts">पोस्ट</string>
+    <string name="user_name">नाव</string>
+
+    <string name="in_flood">पूर मध्ये</string>
+    <string name="after_flood">पूर नंतर</string>
+    <string name="send">पाठवा</string>
+
+    <string name="timestamp">टाइमस्टॅम्प</string>
+    <string name="location">स्थान</string>
+    <string name="description">वर्णन</string>
+    <string name="profile">प्रोफाइल</string>
+    <string name="choose_language">भाषा निवडा</string>
+</resources>

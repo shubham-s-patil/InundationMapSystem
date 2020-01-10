@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">வெள்ளப்பெருக்கு வரைபடம்</string>
+    <string name="home">முகப்பு</string>
+    <string name="search">தேடல்</string>
+    <string name="cam">கேமரா</string>
+    <string name="acc">விவரம்</string>
+
+    <string name="clouds">மேகமூட்டம்</string>
+    <string name="temp">வெப்ப நிலை</string>
+    <string name="humid">ஈரப்பதம்</string>
+    <string name="wind">காற்று</string>
+
+    <string name="rescue">மீட்பு</string>
+    <string name="hospital">மருத்துவமனை</string>
+    <string name="emergency">அவசர</string>
+    <string name="shelter">தங்குமிடம்</string>
+    <string name="food_sup">உணவு வழங்கல்</string>
+    <string name="help">உதவி!!!</string>
+    <string name="city">பெருநகரம்</string>
+
+    <string name="signout">வெளியேறு</string>
+    <string name="posts">இடுகைகள்</string>
+    <string name="user_name">பயனர்பெயர்</string>
+
+    <string name="in_flood">வெள்ளம்</string>
+    <string name="after_flood">வெள்ளம் பிறகு</string>
+    <string name="send">அனுப்புக</string>
+
+    <string name="timestamp">டைம்ஸ்டாம்பைக்</string>
+    <string name="location">இடம்</string>
+    <string name="description">விளக்கம்</string>
+    <string name="profile">சுயவிவர</string>
+    <string name="choose_language">மொழியைத் தேர்வு செய்க</string>
+</resources>

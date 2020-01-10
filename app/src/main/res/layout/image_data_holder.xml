@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="7dp">
+
+
+    <TextView
+        android:id="@+id/image_list_views"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textAlignment="textStart"
+        android:clickable="true"
+        android:focusable="true"
+        android:text="example"/>
+
+    <TextView
+        android:id="@+id/checks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Not-Submitted"
+        android:textAlignment="textEnd"/>
+
+</LinearLayout>
